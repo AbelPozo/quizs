@@ -1,0 +1,35 @@
+[
+    {
+        "question": "¿Cuantos supervivientes puede haber en una partida?", 
+        "options": ["3", "2", "1", "4"], 
+        "answer": 3
+    },
+    {
+        "question": "¿Cuantas habilidades puede tener un superviviente?", 
+        "options": ["3", "4", "5", "6"], 
+        "answer": 2
+    },
+    {
+        "question": "¿Cual superviviente tiene la habilidad para curarte a tí mismo?", 
+        "options": ["Meg Thomas", "Sable Ward", "Claudette Morel", "Mikaela Reid"], 
+        "answer": 3
+    },
+    {
+        "question": "¿Que habilidad pertence a Nea Karlsson?", 
+        "options": ["Evasión Urbana", "Pericia Técnica", "Oportunidades", "Manitas"], 
+        "answer": 0
+    },
+    {
+        "question": "¿Para que sirve el objeto 'mapa'?", 
+        "options": ["Para ver el mapa donde te encuentras", "Para ver tu ubicación y la de tus compañeros en partida", "Para ver auras", "Para ver la ubicación del asesino"], 
+        "answer": 2
+    },
+    {
+        "question": "¿Cuantos generadores hay en una partida?",
+        "options": ["5", "7", "8", "6"],
+        "answer": 1
+    },
+    {
+        
+    }
+]
