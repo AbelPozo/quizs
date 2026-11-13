@@ -1,35 +1,47 @@
 [
     {
-        "question": "¿Cuantos supervivientes puede haber en una partida?", 
+        "question": "¿Cuántos supervivientes puede haber en una partida?", 
         "options": ["3", "2", "1", "4"], 
         "answer": 3
     },
     {
-        "question": "¿Cuantas habilidades puede tener un superviviente?", 
+        "question": "¿Cuántas habilidades puede tener un superviviente?", 
         "options": ["3", "4", "5", "6"], 
         "answer": 2
     },
     {
-        "question": "¿Cual superviviente tiene la habilidad para curarte a tí mismo?", 
+        "question": "¿Cuál superviviente tiene la habilidad para curarte a tí mismo?", 
         "options": ["Meg Thomas", "Sable Ward", "Claudette Morel", "Mikaela Reid"], 
         "answer": 3
     },
     {
-        "question": "¿Que habilidad pertence a Nea Karlsson?", 
+        "question": "¿Qué habilidad pertence a Nea Karlsson?", 
         "options": ["Evasión Urbana", "Pericia Técnica", "Oportunidades", "Manitas"], 
         "answer": 0
     },
     {
-        "question": "¿Para que sirve el objeto 'mapa'?", 
+        "question": "¿Para qué sirve el objeto 'mapa'?", 
         "options": ["Para ver el mapa donde te encuentras", "Para ver tu ubicación y la de tus compañeros en partida", "Para ver auras", "Para ver la ubicación del asesino"], 
         "answer": 2
     },
     {
-        "question": "¿Cuantos generadores hay en una partida?",
+        "question": "¿Cuántos generadores hay en una partida?",
         "options": ["5", "7", "8", "6"],
         "answer": 1
     },
     {
-        
+        "question": "¿Cuántos generadores hay que reparar para que se activen las puertas de salida?",
+        "options": ["4", "3", "5", "6"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuándo aparece la trampilla?",
+        "options": ["Cuando se reparan todos los generadores", "Cuando solo queda un superviviente", "Cuando se elimina un superviviente", "Cuando el asesino se va de la partida"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cómo se conoce a la fuerza sobrenatural que atrae a asesinos y supervivientes a sus pruebas?",
+        "options": ["La Oscuridad", "El Vacío", "El Ente", "El Guardián"],
+        "answer": 0
     }
 ]
