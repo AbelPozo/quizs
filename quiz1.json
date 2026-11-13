@@ -1,47 +1,152 @@
 [
-    {
-        "question": "¿Cuántos supervivientes puede haber en una partida?", 
-        "options": ["3", "2", "1", "4"], 
-        "answer": 3
-    },
-    {
-        "question": "¿Cuántas habilidades puede tener un superviviente?", 
-        "options": ["3", "4", "5", "6"], 
-        "answer": 2
-    },
-    {
-        "question": "¿Cuál superviviente tiene la habilidad para curarte a tí mismo?", 
-        "options": ["Meg Thomas", "Sable Ward", "Claudette Morel", "Mikaela Reid"], 
-        "answer": 3
-    },
-    {
-        "question": "¿Qué habilidad pertence a Nea Karlsson?", 
-        "options": ["Evasión Urbana", "Pericia Técnica", "Oportunidades", "Manitas"], 
-        "answer": 0
-    },
-    {
-        "question": "¿Para qué sirve el objeto 'mapa'?", 
-        "options": ["Para ver el mapa donde te encuentras", "Para ver tu ubicación y la de tus compañeros en partida", "Para ver auras", "Para ver la ubicación del asesino"], 
-        "answer": 2
-    },
-    {
-        "question": "¿Cuántos generadores hay en una partida?",
-        "options": ["5", "7", "8", "6"],
-        "answer": 1
-    },
-    {
-        "question": "¿Cuántos generadores hay que reparar para que se activen las puertas de salida?",
-        "options": ["4", "3", "5", "6"],
-        "answer": 0
-    },
-    {
-        "question": "¿Cuándo aparece la trampilla?",
-        "options": ["Cuando se reparan todos los generadores", "Cuando solo queda un superviviente", "Cuando se elimina un superviviente", "Cuando el asesino se va de la partida"],
-        "answer": 1
-    },
-    {
-        "question": "¿Cómo se conoce a la fuerza sobrenatural que atrae a asesinos y supervivientes a sus pruebas?",
-        "options": ["La Oscuridad", "El Vacío", "El Ente", "El Guardián"],
-        "answer": 0
-    }
+  {
+    "question": "¿Cómo se conoce a la fuerza sobrenatural que atrae a asesinos y supervivientes a sus pruebas?",
+    "options": ["La Oscuridad", "El Vacío", "El Ente", "El Guardián"],
+    "answer": 2
+  },
+  {
+    "question": "¿Cuántos supervivientes participan normalmente en una partida junto al asesino?",
+    "options": ["Dos", "Tres", "Cuatro", "Cinco"],
+    "answer": 2
+  },
+  {
+    "question": "¿Cuál es el principal objetivo de los supervivientes durante una prueba?",
+    "options": ["Reparar generadores y escapar", "Encontrar todos los cofres", "Eliminar al asesino", "Destruir el mapa"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué deben activar los supervivientes para poder abrir las puertas de salida?",
+    "options": ["Los tótems", "Los generadores", "Los cofres", "Las trampas"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué elemento permite a los supervivientes escapar cuando se cumplen determinadas condiciones?",
+    "options": ["La trampilla", "El sótano", "El campamento", "El altar"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué objeto pueden utilizar los supervivientes para curarse a sí mismos?",
+    "options": ["Una linterna", "Un botiquín", "Una caja de herramientas", "Un mapa"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué son las ventajas o perks en Dead by Daylight?",
+    "options": ["Habilidades que proporcionan efectos especiales", "Mapas adicionales", "Tipos de supervivientes", "Modos de juego"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se llama el sistema de progresión de personajes que contiene nodos desbloqueables?",
+    "options": ["La Grieta", "La Red de Sangre", "El Archivo", "El Santuario"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué personaje es conocido por ser uno de los supervivientes originales del juego?",
+    "options": ["Meg Thomas", "Ada Wong", "Leon S. Kennedy", "Steve Harrington"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál de estos personajes es un superviviente de Dead by Daylight?",
+    "options": ["El Trampero", "El Espectro", "Dwight Fairfield", "El Doctor"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué superviviente está asociado con la ventaja Vínculo?",
+    "options": ["Meg Thomas", "Dwight Fairfield", "Claudette Morel", "Jake Park"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué superviviente es conocido por tener la ventaja Sprint?",
+    "options": ["Claudette Morel", "Meg Thomas", "Nea Karlsson", "Feng Min"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué personaje de Stranger Things aparece como asesino en Dead by Daylight?",
+    "options": ["Eleven", "Dustin", "Demogorgon", "Hopper"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué objeto permite cegar temporalmente al asesino?",
+    "options": ["Una linterna", "Un botiquín", "Una llave", "Una caja de herramientas"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué asesino está relacionado con la película The Ring?",
+    "options": ["La Bruja", "La Onryō", "La Enfermera", "La Espíritu"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué ventaja de Claudette Morel permite ver las auras de los supervivientes heridos?",
+    "options": ["Vínculo", "Empatía", "Líder", "Esprint"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué asesino utiliza cuervos como parte de su poder?",
+    "options": ["La Artista", "La Plaga", "La Enfermera", "La Espíritu"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué asesino puede utilizar taquillas para desplazarse por el mapa?",
+    "options": ["El Dredge", "El Trampero", "El Doctor", "El Oni"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué personaje está relacionado con la franquicia Alien?",
+    "options": ["El Xenomorfo", "El Demogorgon", "El Deterioro", "El Desconocido"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué personaje de la franquicia Saw aparece en Dead by Daylight?",
+    "options": ["Amanda Young", "Sarah Connor", "Jill Valentine", "Nancy Wheeler"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se llama el lugar donde descansan los personajes entre pruebas?",
+    "options": ["El Campamento", "La Fogata", "El Santuario", "El Refugio"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llaman las historias adicionales que permiten descubrir más información sobre los personajes?",
+    "options": ["Los Archivos", "Los Portales", "Las Crónicas", "Los Recuerdos"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué objeto permite a los supervivientes sabotear ganchos y ayudar en la reparación de generadores?",
+    "options": ["Un botiquín", "Una linterna", "Una caja de herramientas", "Una llave"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué asesino está relacionado con el personaje de Drácula?",
+    "options": ["El Señor Oscuro", "El Caballero", "El Trampero", "El Artista"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué personaje de Dead by Daylight está relacionado con Dungeons & Dragons?",
+    "options": ["El Lich", "El Doctor", "El Oni", "El Trampero"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es el nombre del asesino conocido como Chucky?",
+    "options": ["The Good Guy", "The Unknown", "The First", "The Blight"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué asesino está relacionado con la franquicia Resident Evil y se llama Albert Wesker?",
+    "options": ["The Mastermind", "The Nemesis", "The Executioner", "The Lich"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué personaje es conocido por utilizar una red de biopods?",
+    "options": ["La Singularidad", "El Dredge", "El Caballero", "El Oni"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se llaman los escenarios en los que tienen lugar las pruebas?",
+    "options": ["Reinos", "Distritos", "Territorios", "Dimensiones de supervivencia"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué objeto puede utilizarse para abrir una trampilla que está cerrada?",
+    "options": ["Una llave", "Un mapa", "Un botiquín", "Una ofrenda"],
+    "answer": 0
+  }
 ]

@@ -2,9 +2,41 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Quiz de videojuegos</title>
+
+        <link rel="stylesheet" href="style.css">
     </head>
+
     <body>
-        
+
+        <h1>Quiz de videojuegos</h1>
+
+        <div id="menu">
+            <h2>Selecciona un cuestionario</h2>
+
+            <button id="dbd">Dead by Daylight</button>
+            <button id="minecraft">Minecraft</button>
+            <button id="pokemon">Pokémon</button>
+        </div>
+
+        <div id="quiz" style="display: none;">
+            <h2 id="nombreQuiz"></h2>
+            <p id="pregunta"></p>
+
+            <div id="respuestas">
+
+            </div>
+
+            <button id="confirmar">Confirmar respuesta</button>
+        </div>
+
+        <div id="resultado" style="display: none;">
+            <h2>¡Cuestionario terminado!</h2>
+            <p id="puntuacionFinal"></p>
+
+            <button id="volverMenu">Volver al menú</button>
+        </div>
+
+        <script src="script.js"></script>
     </body>
 </html>

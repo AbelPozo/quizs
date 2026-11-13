@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Cuál es el nombre de la dimensión en la que comienza normalmente una partida de Minecraft?",
+    "options": ["El Nether", "El End", "El Overworld", "El Vacío"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué material se necesita para fabricar una mesa de trabajo?",
+    "options": ["Cuatro tablones de madera", "Cuatro lingotes de hierro", "Dos palos", "Un bloque de piedra"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué herramienta se utiliza principalmente para extraer minerales?",
+    "options": ["La pala", "El pico", "La azada", "El hacha"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué criatura explota cuando se acerca al jugador?",
+    "options": ["Creeper", "Enderman", "Esqueleto", "Zombi"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué dimensión se caracteriza por sus paisajes de fuego y lava?",
+    "options": ["El End", "El Nether", "El Overworld", "La dimensión del agua"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué criatura protege las aldeas y puede atacar a los enemigos?",
+    "options": ["El gólem de hierro", "El aldeano", "El zorro", "El loro"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué objeto permite dormir y establecer un punto de reaparición en el Overworld?",
+    "options": ["Una silla", "Una cama", "Un cofre", "Una alfombra"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué necesitas para fabricar un horno?",
+    "options": ["Ocho bloques de roca", "Cuatro lingotes de oro", "Tres tablones", "Un diamante"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué criatura suele aparecer en el End y puede teletransportarse?",
+    "options": ["Enderman", "Creeper", "Vaca", "Aldeano"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es el nombre del jefe principal que se encuentra en el End?",
+    "options": ["El Wither", "El Guardián", "El Dragón del End", "El Devastador"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué objeto se utiliza para iluminar zonas oscuras?",
+    "options": ["Antorcha", "Cubo", "Brújula", "Papel"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué material se necesita para fabricar una mesa de encantamientos?",
+    "options": ["Diamantes, obsidiana y un libro", "Hierro, carbón y piedra", "Oro, madera y arena", "Cobre, lana y cristal"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué criatura proporciona lana al esquilarla?",
+    "options": ["La vaca", "La oveja", "El cerdo", "El caballo"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué alimento se obtiene habitualmente de las vacas al ordeñarlas?",
+    "options": ["Agua", "Leche", "Miel", "Zumo"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué objeto permite almacenar objetos y transportarlos dentro de su inventario?",
+    "options": ["La brújula", "La shulker box", "El mapa", "El reloj"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué material se necesita para fabricar una brújula normal?",
+    "options": ["Hierro y redstone", "Oro y diamantes", "Madera y carbón", "Cobre y lapislázuli"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué criatura puede intercambiar objetos con el jugador mediante esmeraldas?",
+    "options": ["El aldeano", "El creeper", "El esqueleto", "El enderman"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué objeto permite desplazarse planeando por el aire?",
+    "options": ["Las botas", "Las élitras", "El escudo", "La caña de pescar"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué mineral se utiliza para fabricar herramientas y armaduras de diamante?",
+    "options": ["Lapislázuli", "Diamante", "Cuarzo", "Redstone"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué bloque permite cocinar alimentos y fundir minerales?",
+    "options": ["El horno", "La mesa de trabajo", "El atril", "El yunque"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué objeto pueden soltar los blazes al ser derrotados?",
+    "options": ["Vara de blaze", "Perla de Ender", "Lágrima de ghast", "Cristal del End"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué se necesita para entrar en el End mediante un portal del mundo normal?",
+    "options": ["Ojos de Ender", "Perlas de nieve", "Lingotes de oro", "Cristales de cuarzo"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué objeto se utiliza para pescar?",
+    "options": ["Un arco", "Una caña de pescar", "Una pala", "Un mapa"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué bloque permite crear mecanismos que se activan mediante señales eléctricas?",
+    "options": ["La redstone", "La lana", "La arena", "El hielo"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué criatura hostil puede aparecer en los monumentos oceánicos?",
+    "options": ["El Blaze", "El Guardián", "El Saqueador", "El Piglin"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué bloque se utiliza principalmente para construir el marco de un portal al Nether?",
+    "options": ["Obsidiana", "Piedra luminosa", "Roca", "Cuarzo"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué bloque se utiliza para reparar y combinar determinados objetos?",
+    "options": ["El yunque", "El horno", "El compostador", "El atril"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué criatura es conocida por recoger objetos del suelo y teletransportarse?",
+    "options": ["El enderman", "El cerdo", "La vaca", "El gólem de hierro"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué material se utiliza para fabricar cristal?",
+    "options": ["Arena fundida", "Madera cocinada", "Piedra triturada", "Carbón prensado"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué criatura aparece en el Nether y es conocida por intercambiar objetos mediante oro?",
+    "options": ["El piglin", "El aldeano", "El gólem de hierro", "El ajolote"],
+    "answer": 0
+  }
+]

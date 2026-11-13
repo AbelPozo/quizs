@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Cómo se llama el Pokémon número 25 de la Pokédex Nacional?",
+    "options": ["Raichu", "Pikachu", "Pichu", "Eevee"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el tipo de Charmander?",
+    "options": ["Agua", "Planta", "Fuego", "Eléctrico"],
+    "answer": 2
+  },
+  {
+    "question": "¿En qué Pokémon evoluciona Charmander?",
+    "options": ["Charizard", "Charmeleon", "Arcanine", "Magmar"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué Pokémon es conocido por dormir durante gran parte del tiempo?",
+    "options": ["Snorlax", "Pikachu", "Gengar", "Machop"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es el Pokémon inicial de tipo Agua de la región de Kanto?",
+    "options": ["Bulbasaur", "Charmander", "Squirtle", "Pikachu"],
+    "answer": 2
+  },
+  {
+    "question": "¿En qué Pokémon evoluciona Magikarp?",
+    "options": ["Lapras", "Gyarados", "Milotic", "Vaporeon"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo de Pokémon es Pikachu?",
+    "options": ["Fuego", "Eléctrico", "Agua", "Psíquico"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es la evolución de Ivysaur?",
+    "options": ["Venusaur", "Bulbasaur", "Meganium", "Sceptile"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué Pokémon puede transformarse en otros Pokémon mediante su movimiento característico?",
+    "options": ["Ditto", "Eevee", "Mewtwo", "Ditto no puede hacerlo"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es el tipo de Squirtle?",
+    "options": ["Fuego", "Agua", "Planta", "Roca"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué Pokémon es conocido por tener múltiples evoluciones diferentes?",
+    "options": ["Eevee", "Psyduck", "Machop", "Zubat"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es la evolución de Pichu?",
+    "options": ["Raichu", "Pikachu", "Electabuzz", "Jolteon"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo es especialmente eficaz contra el tipo Agua?",
+    "options": ["Fuego", "Eléctrico", "Hielo", "Roca"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo es especialmente eficaz contra el tipo Fuego?",
+    "options": ["Agua", "Planta", "Hielo", "Bicho"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué Pokémon es conocido como el Pokémon genético?",
+    "options": ["Mew", "Mewtwo", "Ditto", "Celebi"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el nombre de la región de los primeros juegos Pokémon?",
+    "options": ["Johto", "Hoenn", "Kanto", "Sinnoh"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué objeto se utiliza habitualmente para capturar Pokémon?",
+    "options": ["Poción", "Poké Ball", "Piedra Lunar", "Cuerda Huida"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué Pokémon evoluciona de Caterpie?",
+    "options": ["Metapod", "Butterfree", "Weedle", "Kakuna"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es el tipo de Bulbasaur?",
+    "options": ["Planta y Veneno", "Planta y Agua", "Veneno y Tierra", "Planta y Bicho"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué Pokémon legendario está relacionado con el mar y el océano en Hoenn?",
+    "options": ["Groudon", "Kyogre", "Rayquaza", "Regirock"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué Pokémon legendario está relacionado con los continentes y la tierra en Hoenn?",
+    "options": ["Kyogre", "Groudon", "Lugia", "Suicune"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el tipo de Gengar?",
+    "options": ["Fantasma y Veneno", "Fantasma y Siniestro", "Psíquico y Fantasma", "Veneno y Bicho"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué Pokémon es conocido por llevar una cuchara y utilizar poderes psíquicos?",
+    "options": ["Alakazam", "Machamp", "Golem", "Onix"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué región está asociada con los juegos Pokémon Oro y Plata?",
+    "options": ["Kanto", "Johto", "Hoenn", "Teselia"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué Pokémon inicial de tipo Fuego pertenece a la región de Sinnoh?",
+    "options": ["Torchic", "Chimchar", "Tepig", "Fuecoco"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama el proceso por el que un Pokémon cambia a una forma más desarrollada?",
+    "options": ["Transformación", "Evolución", "Fusión", "Mutación"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué Pokémon es conocido por ser el compañero más famoso de Ash en el anime?",
+    "options": ["Charizard", "Pikachu", "Bulbasaur", "Squirtle"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo de Pokémon es Lucario?",
+    "options": ["Lucha y Acero", "Lucha y Psíquico", "Acero y Siniestro", "Lucha y Tierra"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué Pokémon legendario es conocido como el guardián de los cielos de Hoenn?",
+    "options": ["Groudon", "Kyogre", "Rayquaza", "Latios"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué objeto necesita Pikachu para evolucionar a Raichu?",
+    "options": ["Piedra Fuego", "Piedra Agua", "Piedra Trueno", "Piedra Hoja"],
+    "answer": 2
+  }
+]
