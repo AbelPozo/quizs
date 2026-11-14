@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Cómo se llama el lugar al que cae el protagonista al comienzo de Undertale?",
+    "options": ["El Inframundo", "El Subsuelo", "El Reino Oscuro", "El Mundo Perdido"],
+    "answer": 1
+  },
+  {
+    "question": "¿Quién es el primer personaje que ayuda al protagonista después de conocer a Flowey?",
+    "options": ["Undyne", "Toriel", "Alphys"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama el rey de los monstruos?",
+    "options": ["Asriel", "Gerson", "Asgore", "Mettaton"],
+    "answer": 2
+  },
+  {
+    "question": "Asgore necesita seis almas humanas para romper la barrera.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama el hermano de Sans?",
+    "options": ["Asriel", "Papyrus", "Gaster"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el mayor objetivo de Papyrus?",
+    "options": ["Convertirse en rey", "Unirse a la Guardia Real", "Derrotar a Asgore", "Escapar del Subsuelo"],
+    "answer": 1
+  },
+  {
+    "question": "¿Quién es la capitana de la Guardia Real?",
+    "options": ["Alphys", "Toriel", "Undyne", "Muffet"],
+    "answer": 2
+  },
+  {
+    "question": "¿Quién es la científica real del reino de los monstruos?",
+    "options": ["Alphys", "Toriel", "Mettaton"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué personaje es conocido por sus programas de televisión y su espectáculo?",
+    "options": ["Sans", "Mettaton", "Papyrus", "Asgore"],
+    "answer": 1
+  },
+  {
+    "question": "Napstablook es un fantasma.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
+  },
+  {
+    "question": "¿En qué zona vive Papyrus junto a Sans?",
+    "options": ["Waterfall", "Hotland", "Snowdin"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué personaje dirige el puesto de venta de productos de araña?",
+    "options": ["Muffet", "Mad Dummy", "Bratty", "Catty"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué personaje es el compañero de entrenamiento de Undyne?",
+    "options": ["Sans", "Papyrus", "Asriel"],
+    "answer": 1
+  },
+  {
+    "question": "El Subsuelo es el hogar subterráneo de los monstruos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué personaje aparece al principio del juego con apariencia de flor?",
+    "options": ["Asriel", "Flowey", "Monster Kid", "Temmie"],
+    "answer": 1
+  },
+  {
+    "question": "¿Quiénes son los padres de Asriel?",
+    "options": ["Sans y Toriel", "Undyne y Alphys", "Asgore y Toriel"],
+    "answer": 2
+  },
+  {
+    "question": "¿Cómo se llamaba el primer humano que cayó al Subsuelo antes que el protagonista?",
+    "options": ["Frisk", "Chara", "Kris"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué relación tenía Asriel con el primer humano?",
+    "options": ["Eran hermanos biológicos", "Eran amigos de la infancia", "Era su hermano adoptivo", "Eran enemigos"],
+    "answer": 2
+  },
+  {
+    "question": "Cuando un monstruo absorbe un alma humana, obtiene un gran poder.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué personaje puede reiniciar el mundo y alterar el curso de los acontecimientos?",
+    "options": ["Flowey", "Papyrus", "Muffet", "Monster Kid"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué zona del juego está relacionada con la presencia de cascadas y cristales?",
+    "options": ["Snowdin", "Waterfall", "Hotland"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué personaje es conocido por su afición a los espaguetis?",
+    "options": ["Sans", "Papyrus", "Asgore", "Gerson"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué significa completar la ruta Pacifista Verdadera?",
+    "options": ["Derrotar a todos los jefes", "No matar monstruos y cumplir determinados requisitos", "Conseguir todas las armas"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué personaje se convierte en el jefe final de la ruta Pacifista Verdadera?",
+    "options": ["Asgore", "Omega Flowey", "Asriel Dreemurr", "Undyne"],
+    "answer": 2
+  },
+  {
+    "question": "Sans es el jefe final de la ruta Pacifista Verdadera.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama la versión especial de Undyne que aparece en la ruta Genocida?",
+    "options": ["Undyne la Inmortal", "Undyne la Impasible", "Undyne la Imparable"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué requisito principal caracteriza a la ruta Genocida?",
+    "options": ["No hablar con ningún personaje", "Derrotar a todos los monstruos de cada zona", "Conseguir todos los objetos", "Completar el juego sin guardar"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué personaje aparece como jefe en la ruta Neutral con una transformación conocida como Photoshop Flowey?",
+    "options": ["Asriel", "Flowey", "Asgore"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama el laboratorio secreto relacionado con los experimentos de Alphys?",
+    "options": ["El Laboratorio Verdadero", "El Laboratorio Oscuro", "El Núcleo Secreto"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué personaje aparece al final de la ruta Genocida y está relacionado con el nombre elegido al comenzar la partida?",
+    "options": ["Chara", "Frisk", "Toriel", "Flowey"],
+    "answer": 0
+  }
+]

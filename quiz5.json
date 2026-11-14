@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Cómo se llama la pizzería del primer Five Nights at Freddy's?",
+    "options": ["Fredbear's Family Diner", "Freddy Fazbear's Pizza", "Circus Baby's Pizza World", "Fazbear's Fright"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué animatrónico suele estar escondido en Pirate Cove?",
+    "options": ["Bonnie", "Chica", "Foxy"],
+    "answer": 2
+  },
+  {
+    "question": "El guardia de seguridad del primer juego se llama Jeremy Fitzgerald.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué personaje se encarga de llamar al guardia durante las primeras noches del primer juego?",
+    "options": ["Phone Guy", "HandUnit", "Henry Emily", "Phone Dude"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué recurso debe controlar el jugador para sobrevivir en el primer juego?",
+    "options": ["Oxígeno", "Temperatura", "Electricidad"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué animatrónico tiene una guitarra como parte de su apariencia?",
+    "options": ["Bonnie", "Chica", "Foxy", "Golden Freddy"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué objeto utiliza el jugador para mantener ocupado a Puppet en Five Nights at Freddy's 2?",
+    "options": ["Una linterna", "Una caja de música", "Una guitarra"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama el protagonista jugable de las noches principales de Five Nights at Freddy's 2?",
+    "options": ["Mike Schmidt", "Jeremy Fitzgerald", "Evan Afton", "Henry Emily"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué personaje aparece como una nueva versión de Freddy en el segundo juego?",
+    "options": ["Funtime Freddy", "Glamrock Freddy", "Toy Freddy"],
+    "answer": 2
+  },
+  {
+    "question": "The Puppet lleva una caja de música que debe mantenerse activa para evitar que ataque al jugador.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
+  },
+  {
+    "question": "¿En qué lugar está ambientado Five Nights at Freddy's 3?",
+    "options": ["Freddy Fazbear's Pizza", "Fazbear's Fright", "Circus Baby's Entertainment", "Mega Pizzaplex"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué animatrónico es el principal enemigo de Five Nights at Freddy's 3?",
+    "options": ["Springtrap", "Nightmare Freddy", "Ennard"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué tipo de animatrónicos aparecen como alucinaciones en el tercer juego?",
+    "options": ["Toy", "Glamrock", "Phantom", "Funtime"],
+    "answer": 2
+  },
+  {
+    "question": "¿En qué lugar transcurre principalmente Five Nights at Freddy's 4?",
+    "options": ["En un hospital", "En una casa y un dormitorio", "En una fábrica"],
+    "answer": 1
+  },
+  {
+    "question": "Las versiones terroríficas de los animatrónicos que aparecen en el cuarto juego se llaman Glamrock.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué personaje protagoniza Five Nights at Freddy's: Sister Location?",
+    "options": ["Michael Afton", "Jeremy Fitzgerald", "Gregory", "Henry Emily"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se llama la animatrónica principal de Sister Location?",
+    "options": ["Ballora", "Circus Baby", "Mangle"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué sistema de asistencia guía al jugador en Sister Location?",
+    "options": ["Phone Guy", "HandUnit", "Fazbear OS"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué personaje está formado por varias partes de animatrónicos y aparece en Sister Location?",
+    "options": ["Ennard", "Molten Freddy", "Lefty", "The Puppet"],
+    "answer": 0
+  },
+  {
+    "question": "William Afton es el padre de Michael Afton.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué personaje aparece en Freddy Fazbear's Pizzeria Simulator para reunir a varios animatrónicos?",
+    "options": ["Henry Emily", "Jeremy Fitzgerald", "Vanessa"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se conoce también al animatrónico que contiene a William Afton en Freddy Fazbear's Pizzeria Simulator?",
+    "options": ["Scrap Baby", "Lefty", "Scraptrap", "Molten Freddy"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué personaje aparece como protagonista de Ultimate Custom Night en muchas interpretaciones de su historia?",
+    "options": ["William Afton", "Henry Emily", "Michael Afton"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué tipo de experiencia recrea Five Nights at Freddy's: Help Wanted?",
+    "options": ["Un juego de carreras", "Una experiencia de realidad virtual", "Un juego de estrategia", "Una aventura submarina"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se conoce al misterioso personaje digital que aparece en Help Wanted?",
+    "options": ["Glitchtrap", "Spring Bonnie", "Burntrap"],
+    "answer": 0
+  },
+  {
+    "question": "Five Nights at Freddy's: Security Breach se desarrolla en Fazbear's Fright.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama el niño protagonista de Security Breach?",
+    "options": ["Evan", "Gregory", "Michael", "Jeremy"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué animatrónico ayuda a Gregory durante Security Breach?",
+    "options": ["Glamrock Freddy", "Montgomery Gator", "Glamrock Chica"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se llama la animatrónica con apariencia de lobo que aparece en Security Breach?",
+    "options": ["Ballora", "Roxanne Wolf", "Circus Baby", "Mangle"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué personaje trabaja como guardia de seguridad en el Mega Pizzaplex y está relacionado con Vanny?",
+    "options": ["Vanessa", "Cassidy", "Elizabeth"],
+    "answer": 0
+  }
+]

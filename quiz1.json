@@ -6,7 +6,7 @@
   },
   {
     "question": "¿Cuántos supervivientes participan normalmente en una partida junto al asesino?",
-    "options": ["Dos", "Tres", "Cuatro", "Cinco"],
+    "options": ["Dos", "Tres", "Cuatro"],
     "answer": 2
   },
   {
@@ -15,13 +15,13 @@
     "answer": 0
   },
   {
-    "question": "¿Qué deben activar los supervivientes para poder abrir las puertas de salida?",
-    "options": ["Los tótems", "Los generadores", "Los cofres", "Las trampas"],
+    "question": "Los supervivientes pueden escapar de la prueba sin reparar ningún generador.",
+    "options": ["Verdadero", "Falso"],
     "answer": 1
   },
   {
     "question": "¿Qué elemento permite a los supervivientes escapar cuando se cumplen determinadas condiciones?",
-    "options": ["La trampilla", "El sótano", "El campamento", "El altar"],
+    "options": ["La trampilla", "El sótano", "El campamento"],
     "answer": 0
   },
   {
@@ -30,13 +30,13 @@
     "answer": 1
   },
   {
-    "question": "¿Qué son las ventajas o perks en Dead by Daylight?",
-    "options": ["Habilidades que proporcionan efectos especiales", "Mapas adicionales", "Tipos de supervivientes", "Modos de juego"],
-    "answer": 0
+    "question": "Las ventajas o perks no proporcionan ningún efecto especial durante las partidas.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
   },
   {
     "question": "¿Cómo se llama el sistema de progresión de personajes que contiene nodos desbloqueables?",
-    "options": ["La Grieta", "La Red de Sangre", "El Archivo", "El Santuario"],
+    "options": ["La Grieta", "La Red de Sangre", "El Archivo"],
     "answer": 1
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "question": "¿Cuál de estos personajes es un superviviente de Dead by Daylight?",
-    "options": ["El Trampero", "El Espectro", "Dwight Fairfield", "El Doctor"],
+    "options": ["El Trampero", "El Espectro", "Dwight Fairfield"],
     "answer": 2
   },
   {
@@ -56,13 +56,13 @@
   },
   {
     "question": "¿Qué superviviente es conocido por tener la ventaja Sprint?",
-    "options": ["Claudette Morel", "Meg Thomas", "Nea Karlsson", "Feng Min"],
+    "options": ["Claudette Morel", "Meg Thomas", "Nea Karlsson"],
     "answer": 1
   },
   {
-    "question": "¿Qué personaje de Stranger Things aparece como asesino en Dead by Daylight?",
-    "options": ["Eleven", "Dustin", "Demogorgon", "Hopper"],
-    "answer": 2
+    "question": "El Demogorgon pertenece a la franquicia Resident Evil.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
   },
   {
     "question": "¿Qué objeto permite cegar temporalmente al asesino?",
@@ -71,7 +71,7 @@
   },
   {
     "question": "¿Qué asesino está relacionado con la película The Ring?",
-    "options": ["La Bruja", "La Onryō", "La Enfermera", "La Espíritu"],
+    "options": ["La Bruja", "La Onryō", "La Enfermera"],
     "answer": 1
   },
   {
@@ -85,13 +85,13 @@
     "answer": 0
   },
   {
-    "question": "¿Qué asesino puede utilizar taquillas para desplazarse por el mapa?",
-    "options": ["El Dredge", "El Trampero", "El Doctor", "El Oni"],
+    "question": "El Dredge puede utilizar taquillas para desplazarse por el mapa.",
+    "options": ["Verdadero", "Falso"],
     "answer": 0
   },
   {
     "question": "¿Qué personaje está relacionado con la franquicia Alien?",
-    "options": ["El Xenomorfo", "El Demogorgon", "El Deterioro", "El Desconocido"],
+    "options": ["El Xenomorfo", "El Demogorgon", "El Deterioro"],
     "answer": 0
   },
   {
@@ -101,7 +101,7 @@
   },
   {
     "question": "¿Cómo se llama el lugar donde descansan los personajes entre pruebas?",
-    "options": ["El Campamento", "La Fogata", "El Santuario", "El Refugio"],
+    "options": ["El Campamento", "La Fogata", "El Santuario"],
     "answer": 1
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "question": "¿Qué objeto permite a los supervivientes sabotear ganchos y ayudar en la reparación de generadores?",
-    "options": ["Un botiquín", "Una linterna", "Una caja de herramientas", "Una llave"],
+    "options": ["Un botiquín", "Una linterna", "Una caja de herramientas"],
     "answer": 2
   },
   {
@@ -121,12 +121,12 @@
   },
   {
     "question": "¿Qué personaje de Dead by Daylight está relacionado con Dungeons & Dragons?",
-    "options": ["El Lich", "El Doctor", "El Oni", "El Trampero"],
+    "options": ["El Lich", "El Doctor", "El Oni"],
     "answer": 0
   },
   {
-    "question": "¿Cuál es el nombre del asesino conocido como Chucky?",
-    "options": ["The Good Guy", "The Unknown", "The First", "The Blight"],
+    "question": "El nombre de Chucky como asesino en Dead by Daylight es The Good Guy.",
+    "options": ["Verdadero", "Falso"],
     "answer": 0
   },
   {
@@ -136,13 +136,13 @@
   },
   {
     "question": "¿Qué personaje es conocido por utilizar una red de biopods?",
-    "options": ["La Singularidad", "El Dredge", "El Caballero", "El Oni"],
+    "options": ["La Singularidad", "El Dredge", "El Caballero"],
     "answer": 0
   },
   {
-    "question": "¿Cómo se llaman los escenarios en los que tienen lugar las pruebas?",
-    "options": ["Reinos", "Distritos", "Territorios", "Dimensiones de supervivencia"],
-    "answer": 0
+    "question": "Los escenarios en los que tienen lugar las pruebas se llaman Santuarios.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
   },
   {
     "question": "¿Qué objeto puede utilizarse para abrir una trampilla que está cerrada?",

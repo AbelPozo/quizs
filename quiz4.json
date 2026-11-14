@@ -1,0 +1,152 @@
+[
+  {
+    "question": "¿Cómo se llama la hija de Joel?",
+    "options": ["Ellie", "Sarah", "Tess", "Riley"],
+    "answer": 1
+  },
+  {
+    "question": "Cuando comienza el viaje de Joel y Ellie, han pasado 25 años desde el inicio de la infección.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué hace especial a Ellie frente a la infección?",
+    "options": ["Es inmune", "Puede controlar a los infectados", "Nunca ha sido mordida"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se llama el grupo para el que trabaja Marlene?",
+    "options": ["Los Luciérnagas", "Los Lobos", "Los Serafitas", "Los Saqueadores"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se llama la compañera de Joel al principio de su viaje con Ellie?",
+    "options": ["Maria", "Tess", "Dina"],
+    "answer": 1
+  },
+  {
+    "question": "El hospital donde los Luciérnagas esperan estudiar a Ellie se encuentra en Seattle.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué animal observa Ellie con admiración durante el viaje?",
+    "options": ["Un oso", "Una jirafa", "Un caballo", "Un ciervo"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama el hermano de Joel?",
+    "options": ["David", "Owen", "Tommy"],
+    "answer": 2
+  },
+  {
+    "question": "¿Cómo se llama el líder del grupo que captura a Ellie durante su estancia en Colorado?",
+    "options": ["David", "Isaac", "Abby", "Robert"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué instrumento musical utiliza Joel para enseñarle música a Ellie?",
+    "options": ["Piano", "Violín", "Guitarra"],
+    "answer": 2
+  },
+  {
+    "question": "El asentamiento donde viven Tommy y Maria se llama Jackson.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué nombre recibe la ciudad en la que vive Joel al comienzo de The Last of Us Parte II?",
+    "options": ["Boston", "Jackson", "Seattle", "Denver"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama la protagonista jugable que se introduce en The Last of Us Parte II además de Ellie?",
+    "options": ["Dina", "Abby", "Maria"],
+    "answer": 1
+  },
+  {
+    "question": "¿A qué grupo pertenece Abby al comienzo de su historia en la Parte II?",
+    "options": ["Los Luciérnagas", "Los Serafitas", "La WLF", "Los Rattlers"],
+    "answer": 2
+  },
+  {
+    "question": "¿Cómo se llama el padre de Abby?",
+    "options": ["Jerry", "Owen", "Isaac", "Manny"],
+    "answer": 0
+  },
+  {
+    "question": "El Washington Liberation Front también es conocido como los Lobos.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo llaman los miembros de la WLF a sus principales enemigos religiosos?",
+    "options": ["Los Luciérnagas", "Los Serafitas", "Los Rattlers"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama el hermano de Serafita que acompaña a Abby durante parte de su historia?",
+    "options": ["Lev", "Jesse", "Owen", "Manny"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se llama la hermana de Lev?",
+    "options": ["Mel", "Yara", "Dina"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama la pareja de Ellie durante gran parte de The Last of Us Parte II?",
+    "options": ["Maria", "Mel", "Dina", "Yara"],
+    "answer": 2
+  },
+  {
+    "question": "¿Cómo se llama el amigo de Ellie que también está relacionado con Dina?",
+    "options": ["Jesse", "Owen", "Manny"],
+    "answer": 0
+  },
+  {
+    "question": "Isaac dirige la WLF en Seattle.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
+  },
+  {
+    "question": "¿En qué ciudad transcurre gran parte de la historia de The Last of Us Parte II?",
+    "options": ["Boston", "Seattle", "Salt Lake City", "San Francisco"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama el teatro que se convierte en un lugar importante para Ellie y sus compañeros?",
+    "options": ["Teatro Orpheum", "Teatro Starlight", "Teatro del Capitolio", "Teatro de Jackson"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué instrumento toca Ellie durante algunas escenas de la Parte II?",
+    "options": ["Guitarra", "Piano", "Batería"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cómo se llama el grupo que captura personas y aparece en la zona de Santa Bárbara?",
+    "options": ["Los Luciérnagas", "Los Rattlers", "Los Serafitas"],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué tipo de infectado es conocido por utilizar la ecolocalización para detectar a sus víctimas?",
+    "options": ["Corredor", "Acechador", "Chasqueador", "Hinchado"],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué tipo de infectado aparece cubierto de hongos y es especialmente resistente?",
+    "options": ["Chasqueador", "Hinchado", "Corredor", "Acechador"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cómo se llama el caballo que acompaña a Ellie durante parte de su viaje en Seattle?",
+    "options": ["Callus", "Shimmer", "Boris", "Buckley"],
+    "answer": 1
+  },
+  {
+    "question": "Jerry es el médico que iba a operar a Ellie al final del primer juego.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
+  }
+]

@@ -2,6 +2,9 @@
 let botonDBD = document.getElementById("dbd");
 let botonMinecraft = document.getElementById("minecraft");
 let botonPokemon = document.getElementById("pokemon");
+let botonTheLastOfUs = document.getElementById("thelastofus");
+let botonFNAF = document.getElementById("fnaf");
+let botonUndertale = document.getElementById("undertale");
 
 //Guardamos las zonas de la página
 let menu = document.getElementById("menu");
@@ -77,7 +80,7 @@ function mostrarPregunta() {
     //Borramos las respuestas anteriores
     respuestasHTML.innerHTML = "";
 
-    //Recorremos las cuatro opciones
+    //Recorremos todas las opciones de la pregunta
     for (let i = 0; i < preguntaActual.options.length; i++) {
 
         //Creamos un botón para cada respuesta
@@ -122,6 +125,18 @@ botonMinecraft.addEventListener("click", function() {
 
 botonPokemon.addEventListener("click", function() {
     iniciarQuiz("quiz3.json", "Pokémon");
+});
+
+botonTheLastOfUs.addEventListener("click", function() {
+    iniciarQuiz("quiz4.json", "The Last of Us");
+});
+
+botonFNAF.addEventListener("click", function() {
+    iniciarQuiz("quiz5.json", "Five Nights at Freddy's");
+});
+
+botonUndertale.addEventListener("click", function() {
+    iniciarQuiz("quiz6.json", "Undertale");
 });
 
 //Acción del botón Confirmar respuesta

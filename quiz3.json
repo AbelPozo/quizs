@@ -6,12 +6,12 @@
   },
   {
     "question": "¿Cuál es el tipo de Charmander?",
-    "options": ["Agua", "Planta", "Fuego", "Eléctrico"],
+    "options": ["Agua", "Planta", "Fuego"],
     "answer": 2
   },
   {
-    "question": "¿En qué Pokémon evoluciona Charmander?",
-    "options": ["Charizard", "Charmeleon", "Arcanine", "Magmar"],
+    "question": "Charmander evoluciona directamente a Charizard.",
+    "options": ["Verdadero", "Falso"],
     "answer": 1
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "question": "¿Cuál es el Pokémon inicial de tipo Agua de la región de Kanto?",
-    "options": ["Bulbasaur", "Charmander", "Squirtle", "Pikachu"],
+    "options": ["Bulbasaur", "Charmander", "Squirtle"],
     "answer": 2
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "question": "¿Cuál es la evolución de Ivysaur?",
-    "options": ["Venusaur", "Bulbasaur", "Meganium", "Sceptile"],
+    "options": ["Venusaur", "Bulbasaur", "Meganium"],
     "answer": 0
   },
   {
@@ -45,13 +45,13 @@
     "answer": 0
   },
   {
-    "question": "¿Cuál es el tipo de Squirtle?",
-    "options": ["Fuego", "Agua", "Planta", "Roca"],
-    "answer": 1
+    "question": "Squirtle es un Pokémon de tipo Agua.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
   },
   {
     "question": "¿Qué Pokémon es conocido por tener múltiples evoluciones diferentes?",
-    "options": ["Eevee", "Psyduck", "Machop", "Zubat"],
+    "options": ["Eevee", "Psyduck", "Machop"],
     "answer": 0
   },
   {
@@ -66,7 +66,7 @@
   },
   {
     "question": "¿Qué tipo es especialmente eficaz contra el tipo Fuego?",
-    "options": ["Agua", "Planta", "Hielo", "Bicho"],
+    "options": ["Agua", "Planta", "Hielo"],
     "answer": 0
   },
   {
@@ -75,9 +75,9 @@
     "answer": 1
   },
   {
-    "question": "¿Cuál es el nombre de la región de los primeros juegos Pokémon?",
-    "options": ["Johto", "Hoenn", "Kanto", "Sinnoh"],
-    "answer": 2
+    "question": "La región de los primeros juegos Pokémon se llama Johto.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
   },
   {
     "question": "¿Qué objeto se utiliza habitualmente para capturar Pokémon?",
@@ -86,7 +86,7 @@
   },
   {
     "question": "¿Qué Pokémon evoluciona de Caterpie?",
-    "options": ["Metapod", "Butterfree", "Weedle", "Kakuna"],
+    "options": ["Metapod", "Butterfree", "Weedle"],
     "answer": 0
   },
   {
@@ -96,12 +96,12 @@
   },
   {
     "question": "¿Qué Pokémon legendario está relacionado con el mar y el océano en Hoenn?",
-    "options": ["Groudon", "Kyogre", "Rayquaza", "Regirock"],
+    "options": ["Groudon", "Kyogre", "Rayquaza"],
     "answer": 1
   },
   {
-    "question": "¿Qué Pokémon legendario está relacionado con los continentes y la tierra en Hoenn?",
-    "options": ["Kyogre", "Groudon", "Lugia", "Suicune"],
+    "question": "Groudon es el Pokémon legendario relacionado con los océanos de Hoenn.",
+    "options": ["Verdadero", "Falso"],
     "answer": 1
   },
   {
@@ -111,7 +111,7 @@
   },
   {
     "question": "¿Qué Pokémon es conocido por llevar una cuchara y utilizar poderes psíquicos?",
-    "options": ["Alakazam", "Machamp", "Golem", "Onix"],
+    "options": ["Alakazam", "Machamp", "Golem"],
     "answer": 0
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "question": "¿Qué Pokémon inicial de tipo Fuego pertenece a la región de Sinnoh?",
-    "options": ["Torchic", "Chimchar", "Tepig", "Fuecoco"],
+    "options": ["Torchic", "Chimchar", "Tepig"],
     "answer": 1
   },
   {
@@ -135,13 +135,13 @@
     "answer": 1
   },
   {
-    "question": "¿Qué tipo de Pokémon es Lucario?",
-    "options": ["Lucha y Acero", "Lucha y Psíquico", "Acero y Siniestro", "Lucha y Tierra"],
-    "answer": 0
+    "question": "Lucario es un Pokémon de tipo Lucha y Psíquico.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
   },
   {
     "question": "¿Qué Pokémon legendario es conocido como el guardián de los cielos de Hoenn?",
-    "options": ["Groudon", "Kyogre", "Rayquaza", "Latios"],
+    "options": ["Groudon", "Kyogre", "Rayquaza"],
     "answer": 2
   },
   {

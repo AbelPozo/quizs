@@ -6,12 +6,12 @@
   },
   {
     "question": "¿Qué material se necesita para fabricar una mesa de trabajo?",
-    "options": ["Cuatro tablones de madera", "Cuatro lingotes de hierro", "Dos palos", "Un bloque de piedra"],
+    "options": ["Cuatro tablones de madera", "Cuatro lingotes de hierro", "Dos palos"],
     "answer": 0
   },
   {
-    "question": "¿Qué herramienta se utiliza principalmente para extraer minerales?",
-    "options": ["La pala", "El pico", "La azada", "El hacha"],
+    "question": "Para extraer minerales se utiliza principalmente una pala.",
+    "options": ["Verdadero", "Falso"],
     "answer": 1
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "question": "¿Qué dimensión se caracteriza por sus paisajes de fuego y lava?",
-    "options": ["El End", "El Nether", "El Overworld", "La dimensión del agua"],
+    "options": ["El End", "El Nether", "El Overworld"],
     "answer": 1
   },
   {
@@ -30,13 +30,13 @@
     "answer": 0
   },
   {
-    "question": "¿Qué objeto permite dormir y establecer un punto de reaparición en el Overworld?",
-    "options": ["Una silla", "Una cama", "Un cofre", "Una alfombra"],
+    "question": "Las camas permiten establecer un punto de reaparición en el Nether sin ningún peligro.",
+    "options": ["Verdadero", "Falso"],
     "answer": 1
   },
   {
     "question": "¿Qué necesitas para fabricar un horno?",
-    "options": ["Ocho bloques de roca", "Cuatro lingotes de oro", "Tres tablones", "Un diamante"],
+    "options": ["Ocho bloques de roca", "Cuatro lingotes de oro", "Tres tablones"],
     "answer": 0
   },
   {
@@ -50,18 +50,18 @@
     "answer": 2
   },
   {
-    "question": "¿Qué objeto se utiliza para iluminar zonas oscuras?",
-    "options": ["Antorcha", "Cubo", "Brújula", "Papel"],
-    "answer": 0
+    "question": "Una brújula se utiliza principalmente para iluminar zonas oscuras.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 1
   },
   {
     "question": "¿Qué material se necesita para fabricar una mesa de encantamientos?",
-    "options": ["Diamantes, obsidiana y un libro", "Hierro, carbón y piedra", "Oro, madera y arena", "Cobre, lana y cristal"],
+    "options": ["Diamantes, obsidiana y un libro", "Hierro, carbón y piedra", "Oro, madera y arena"],
     "answer": 0
   },
   {
     "question": "¿Qué criatura proporciona lana al esquilarla?",
-    "options": ["La vaca", "La oveja", "El cerdo", "El caballo"],
+    "options": ["La vaca", "La oveja", "El cerdo"],
     "answer": 1
   },
   {
@@ -76,7 +76,7 @@
   },
   {
     "question": "¿Qué material se necesita para fabricar una brújula normal?",
-    "options": ["Hierro y redstone", "Oro y diamantes", "Madera y carbón", "Cobre y lapislázuli"],
+    "options": ["Hierro y redstone", "Oro y diamantes", "Madera y carbón"],
     "answer": 0
   },
   {
@@ -85,13 +85,13 @@
     "answer": 0
   },
   {
-    "question": "¿Qué objeto permite desplazarse planeando por el aire?",
-    "options": ["Las botas", "Las élitras", "El escudo", "La caña de pescar"],
-    "answer": 1
+    "question": "Las élitras permiten desplazarse planeando por el aire.",
+    "options": ["Verdadero", "Falso"],
+    "answer": 0
   },
   {
     "question": "¿Qué mineral se utiliza para fabricar herramientas y armaduras de diamante?",
-    "options": ["Lapislázuli", "Diamante", "Cuarzo", "Redstone"],
+    "options": ["Lapislázuli", "Diamante", "Cuarzo"],
     "answer": 1
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "question": "¿Qué se necesita para entrar en el End mediante un portal del mundo normal?",
-    "options": ["Ojos de Ender", "Perlas de nieve", "Lingotes de oro", "Cristales de cuarzo"],
+    "options": ["Ojos de Ender", "Perlas de nieve", "Lingotes de oro"],
     "answer": 0
   },
   {
@@ -115,13 +115,13 @@
     "answer": 1
   },
   {
-    "question": "¿Qué bloque permite crear mecanismos que se activan mediante señales eléctricas?",
-    "options": ["La redstone", "La lana", "La arena", "El hielo"],
+    "question": "La redstone permite crear mecanismos y circuitos dentro del juego.",
+    "options": ["Verdadero", "Falso"],
     "answer": 0
   },
   {
     "question": "¿Qué criatura hostil puede aparecer en los monumentos oceánicos?",
-    "options": ["El Blaze", "El Guardián", "El Saqueador", "El Piglin"],
+    "options": ["El Blaze", "El Guardián", "El Saqueador"],
     "answer": 1
   },
   {
@@ -136,12 +136,12 @@
   },
   {
     "question": "¿Qué criatura es conocida por recoger objetos del suelo y teletransportarse?",
-    "options": ["El enderman", "El cerdo", "La vaca", "El gólem de hierro"],
+    "options": ["El enderman", "El cerdo", "La vaca"],
     "answer": 0
   },
   {
-    "question": "¿Qué material se utiliza para fabricar cristal?",
-    "options": ["Arena fundida", "Madera cocinada", "Piedra triturada", "Carbón prensado"],
+    "question": "Para fabricar cristal, se debe fundir arena en un horno.",
+    "options": ["Verdadero", "Falso"],
     "answer": 0
   },
   {
